@@ -52,7 +52,6 @@ public class BankCommand  extends BotCommand {
         keyboard.add(row3);
         keyboardMarkup.setKeyboard(keyboard);
 
-        // Устанавливаем клавиатуру в сообщение
         message.setReplyMarkup(keyboardMarkup);
 
         try {

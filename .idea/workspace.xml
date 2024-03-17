@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6eeba14c-41b4-4d4e-a026-29dd41768c7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/TelegramBotApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/currency/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/currency/CurrencyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/currency/MonoCurrencyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/currency/NBUCurrencyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/currency/PrivateBankCurrencyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/dto/CurrencyItemMB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/dto/CurrencyItemNBU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/dto/CurrencyItemPB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/BotConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/CurrencyTelegramBot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/TelegramBotService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/buttons/BankCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/buttons/InfoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/buttons/SettingsCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/command/StartCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/ui/PrettyCurrencyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/feature/TelegramBotApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/TelegramBotApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/CurrencyTelegramBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/TelegramBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/TelegramBotService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/TelegramBotService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/buttons/BankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/buttons/BankCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/buttons/SettingsCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/feature/telegram/buttons/SettingsCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/feature/ui/PrettyCurrencyService.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,16 +108,5 @@
       <updated>1710446218685</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
